@@ -34,6 +34,11 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+            <groupId>com.nit</groupId>
+            <artifactId>art123</artifactId>
+            <version>1</version>
+        </dependency>
 
 	</dependencies>
 
